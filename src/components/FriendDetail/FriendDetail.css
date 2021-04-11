@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.detail-area{
+    width: 50%;
+    background-color: white;
+    margin-left: 350px;
+}
+
+.friend-about{
+    text-align: justify;
+    padding-bottom: 10px;
+}

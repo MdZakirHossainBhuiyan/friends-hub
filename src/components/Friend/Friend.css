@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.friend-area{
+    width: 25%;
+    /* height: 200px; */
+    margin: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+    background-color: white;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    margin: 15px;
+    padding-left: 10px;
+}
+
+.btn-detail{
+    border: 1px solid black;
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: skyblue;
+    font-weight: 700;
+    font-size: 18px;
+}
